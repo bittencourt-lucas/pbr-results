@@ -1,5 +1,5 @@
 # Physically Based Rendering - Results
-This repository will be used to post the results from my Physically Based Rendering class at Universidade Federal da Paraíba
+This repository will be used to post the results from my Physically Based Rendering class at Universidade Federal da Paraíba. My name is **Lucas Cafieiro Bittencourt Lima**, and I'm a Computer Science undergraduate.
 
 # Activity 1: Use an existing renderer to create a scene
 
